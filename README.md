@@ -28,8 +28,13 @@
   <a href="mailto:joao.vico.mellof@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  
 </div>
+
+##
+
+<a href="https://github.com/joao-mello-ferrari-backup">
+  Courses challenges and secondary projects
+</a>
 
   <!--
 **Joao-mello-ferrari/Joao-mello-ferrari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
