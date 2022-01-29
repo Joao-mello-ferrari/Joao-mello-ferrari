@@ -33,7 +33,7 @@
 ##
 
 <a href="https://github.com/joao-mello-ferrari-backup">
-  Courses challenges and secondary projects
+  Courses' challenges and secondary projects
 </a>
 
   <!--
