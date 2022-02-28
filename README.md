@@ -35,7 +35,7 @@
   <a href="https://www.linkedin.com/in/jo%C3%A3o-mello-ferrari/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/joaoferrariamaral/">
+  <a href="https://www.instagram.com/joaomelloferrari/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:joao.vico.mellof@gmail.com">
